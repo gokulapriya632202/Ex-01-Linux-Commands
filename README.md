@@ -1,5 +1,7 @@
-# Ex-01-Linux-Commands
+# Ex-01 Linux Commands
 
+## NAME:  GOKULA PRIYA P
+## REG NO: 212222040044
 
 ## Aim:
 
